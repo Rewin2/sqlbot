@@ -1,0 +1,15 @@
+{
+    "sql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "es_extended"
+    },
+    "izinliRolid":"862083352306515968",
+    "sunucuID":"856237896674705428",
+    "wlLogID":"862083463770537994",
+    "whitelistlogWebhookURL":"0",
+    "faturalogWebhookURL":"0",
+    "whitelistlogAktif":false,
+    "faturalogAktif":false
+}
